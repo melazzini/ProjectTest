@@ -32,5 +32,7 @@ namespace testapi
          * 
          */
         void foo();
+
+        void foo(double x);
     };
 } // namespace testapi

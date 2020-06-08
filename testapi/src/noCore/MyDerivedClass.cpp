@@ -7,4 +7,8 @@ namespace testapi
     {
         std::cout << "foo!\n";
     }
+    void MyDeriveClass::foo(double x)
+    {
+        std::cout << "foo: " << x << "\n";
+    }
 } // namespace testapi
