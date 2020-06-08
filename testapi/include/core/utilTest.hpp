@@ -1,5 +1,5 @@
 #pragma once
-
+#include<cstdlib>
 namespace testapi
 {
 	/// floating point type
@@ -11,8 +11,11 @@ namespace testapi
 	/// natural numbers type
 	using test_size = size_t;
 
+#ifdef USE_CUDA
 	/**
 	 * @brief This is a kernel launcher to fooKernelTest()
 	 */
 	void callFooKernelTest();
-}// namespace test
+#endif
+
+} // namespace testapi
