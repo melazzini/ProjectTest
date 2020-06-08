@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['main',['main',['../main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main.cpp']]],
-  ['myclass',['MyClass',['../classtestapi_1_1_my_class.html#a9dedf3e1cfeedd4433be73f7415b26bc',1,'testapi::MyClass']]],
-  ['myclass2',['MyClass2',['../classtestapi_1_1_my_class2.html#ac3e2bf3663c78c6188b6e05d02723fe9',1,'testapi::MyClass2']]]
+  ['foo_46',['foo',['../classtestapi_1_1_my_derive_class.html#a5f5d363a703303815e84010227c64f8e',1,'testapi::MyDeriveClass::foo()'],['../classtestapi_1_1_my_derive_class.html#a7f00b5f9f8e8b026d5fd6d65afd15588',1,'testapi::MyDeriveClass::foo(double x)']]],
+  ['fooinline_47',['fooInline',['../classtestapi_1_1_my_class.html#a9af17563aa438ddab1da3fc4052a7152',1,'testapi::MyClass']]]
 ];
